@@ -1,0 +1,42 @@
+# Hola, soy Octavio Hernández 👋
+
+🎓 Estudiante de nivel medio superior  
+📍 México  
+📧 oc.hernandez@plancarteatlcomulco.edu.mx 
+
+## Sobre mí
+Soy una persona responsable, organizada y con interés en aprender nuevas habilidades.
+
+## Habilidades
+- Trabajo en equipo
+- Atención al cliente
+- Organización
+
+## Experiencia
+- Negocio familiar (2023 - 2026)
+
+## Educación
+- Preparatoria 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CV Octavio Hernández</title>
+  <style>
+    body { font-family: Arial; background: #111; color: white; }
+    .container { max-width: 800px; margin: auto; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Octavio Hernández</h1>
+    <p>Estudiante de nivel medio superior</p>
+
+    <h2>Sobre mí</h2>
+    <p>Soy una persona responsable y organizada...</p>
+
+    <h2>Contacto</h2>
+    <p>Tel: xxx xxx xxxx</p>
+    <p>Email: xxx@gmail.com</p>
+  </div>
+</body>
+</html>
